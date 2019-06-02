@@ -1,11 +1,15 @@
 body {
 	text-align: center;
-	background: url("images/women.jpg");
+	background: url(images/women.jpg);
 	background-size: cover;
 	color: #13bfb4;
 	font-family: Sans-Serif;
 }
 
+div{
+	background: 
+	url(/images/women.jpg);
+}
 h1, {
 	color: #3a2fad;
 	text-align: center;
