@@ -1,7 +1,16 @@
 body {
-	background-color: #13bfb4;
+	text-align: center;
+	background: img src(images/women.jpg);
+	background-size: cover;
+	color: #13bfb4;
+	font-family: Open Sans, Sans-Serif;
 }
 
-h1, p {
+h1, {
 	color: #3a2fad;
+	text-align: center;
+}
+
+p{
+	font-size: 22px
 }
