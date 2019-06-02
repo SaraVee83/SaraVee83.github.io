@@ -1,9 +1,9 @@
 body {
 	text-align: center;
-	background: img src("images/women.jpg");
+	background: url("images/women.jpg");
 	background-size: cover;
 	color: #13bfb4;
-	font-family: Open Sans, Sans-Serif;
+	font-family: Sans-Serif;
 }
 
 h1, {
