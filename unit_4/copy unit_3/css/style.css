@@ -16,9 +16,10 @@ div{
 h1, {
 	color: #3a2fad;
 	text-align: center;
-	font-family: 'Open Sans', italic;
+	font-family: Open Sans, Sans, bold;
 }
 
 p{
 	font-size: 22px
+	font-family: Open Sans, Sans, bold;
 }
