@@ -4,6 +4,8 @@ header {
     background-color: #FFED74;
     border: 1px black solid;
     padding: 20px;
+    background: url(images/EVA1024x768.png);
+	background-size: cover;
 }
 
 nav {
@@ -38,8 +40,6 @@ section {
 
 body {
 	text-align: center;
-	background: url(images/EVA1024x768.png);
-	background-size: cover;
 	background-color: #f1f3f6;
 	color: #13bfb4;
 	font-family: Sans-Serif;
