@@ -1,5 +1,41 @@
 @import url('https://fonts.googleapis.com/css?family=Open+Sans&display=swap');
 
+header {
+    background-color: #FFED74;
+    border: 1px black solid;
+    padding: 20px;
+}
+
+nav {
+	background-color:#E8C66A;
+	border: 1px black solid;
+	padding: 20px;
+}
+
+aside{
+	background-color:#FFC775;
+	border: 1px black solid;
+	padding: 20px;
+}
+
+article{
+	background-color:#E89C6C;
+	border: 1px black solid;
+	padding: 20px;
+}
+
+footer{
+	background-color:#FF957E;
+	border: 1px black solid;
+	padding: 20px;
+}
+
+section{
+	background-color:#FFE2B8;
+	border: 1px black solid;
+	padding: 20px;
+}
+
 body {
 	text-align: center;
 	background: url(images/EVA1024x768.png);
@@ -7,11 +43,7 @@ body {
 	background-color: #f1f3f6;
 	color: #13bfb4;
 	font-family: Sans-Serif;
-}
-
-div{
-	background: 
-	url(images/EVA1024x768.png);
+	margin: 2 em;
 }
 
 h1, {
