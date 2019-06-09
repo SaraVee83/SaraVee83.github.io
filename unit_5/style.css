@@ -1,6 +1,6 @@
 @import url('https://fonts.googleapis.com/css?family=Open+Sans&display=swap');
 
-header {
+#wrapper {
     background-color: #FFED74;
     border: 1px black solid;
     padding: 20px;
@@ -26,13 +26,12 @@ article {
 	padding: 20px;
 }
 
-footer {
+#footer {
 	background-color:#FF957E;
 	border: 1px black solid;
 	padding: 20px;
-}
 
-section {
+#intro {
 	background-color:#FFE2B8;
 	border: 1px black solid;
 	padding: 20px;
