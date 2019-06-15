@@ -1,19 +1,57 @@
 @import url('https://fonts.googleapis.com/css?family=Open+Sans&display=swap');
 
+#wrapper {
+    background-color: #FFED74;
+    border: 1px black solid;
+    padding: 20px;
+    background: url(images/EVA1024x768.png);
+	background-size: cover;
+}
+
+nav {
+	background-color:#E8C66A;
+	border: 1px black solid;
+	padding: 20px;
+}
+
+aside {
+	background-color:#FFC775;
+	border: 1px black solid;
+	padding: 20px;
+}
+
+article {
+	background-color:#E89C6C;
+	border: 1px black solid;
+	padding: 20px;
+}
+
+#footer {
+	background-color:#FF957E;
+	border: 1px black solid;
+	padding: 20px;
+
+#intro {
+	background-color:#FFE2B8;
+	border: 1px black solid;
+	padding: 20px;
+}
+
 body {
 	text-align: center;
-	background: url(images/women.jpg);
-	background-size: cover;
 	background-color: #f1f3f6;
 	color: #13bfb4;
 	font-family: Sans-Serif;
+	margin: 2 em;
 }
 
-div{
-	background: 
-	url(/images/women.jpg);
+h1 {
+	color: #3a2fad;
+	text-align: center;
+	font-family: Open Sans, Sans, bold;
 }
-h1, {
+
+h3 {
 	color: #3a2fad;
 	text-align: center;
 	font-family: Open Sans, Sans, bold;
@@ -22,5 +60,4 @@ h1, {
 p{
 	font-size: 22px
 	font-family: Open Sans, Sans;
-	font-style: italic;
 }
