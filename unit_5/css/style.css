@@ -56,10 +56,12 @@ aside {
 
 #products {
 	text-align: center;
-	background-color: #F1F3F6;
-	color: #13BFB4;
-	font-family: Sans-Serif;
-	margin: 2 em;
+	background-color:#F1F3F6;
+	border: 1px black solid;
+	padding: 20px;
+	color:#13BFB4;
+	font-family: Open Sans, Sans-Serif;
+	margin: 2em;
 }
 
 h1 {
