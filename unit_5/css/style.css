@@ -50,8 +50,8 @@ aside {
 
 #products {
 	text-align: center;
-	background-color: #f1f3f6;
-	color: #13bfb4;
+	background-color: #F1F3F6;
+	color: #13BFB4;
 	font-family: Sans-Serif;
 	margin: 2 em;
 }
@@ -69,6 +69,6 @@ h3 {
 }
 
 p{
-	font-size: 22px
-	font-family: Open Sans, Sans-Serif;;
+	font-size: 22px;
+	font-family: Open Sans, Sans-Serif;
 }
