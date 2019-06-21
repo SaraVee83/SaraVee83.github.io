@@ -55,10 +55,10 @@ aside {
 }
 
 #products {
-	text-align: center;
 	background-color: #FFC675;
 	border: 1px black solid;
 	padding: 20px; 
+	text-align: center;
 	color: #13BFB4;
 	font-family: Open Sans, Sans-Serif;
 }
