@@ -58,16 +58,16 @@ body {
 h1 {
 	color: #3a2fad;
 	text-align: center;
-	font-family: Open Sans, Sans, bold;
+	font-family: Open Sans, Sans-Serif;, bold;
 }
 
 h3 {
 	color: #3a2fad;
 	text-align: center;
-	font-family: Open Sans, Sans, bold;
+	font-family: Open Sans, Sans-Serif;, bold;
 }
 
 p{
 	font-size: 22px
-	font-family: Open Sans, Sans;
+	font-family: Open Sans, Sans-Serif;;
 }
