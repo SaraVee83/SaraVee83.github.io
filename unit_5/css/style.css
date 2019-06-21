@@ -30,7 +30,7 @@ aside {
 	padding: 20px;
 }
 
-article {
+#header {
 	background-color:#E89C6C;
 	border: 1px black solid;
 	padding: 20px;
@@ -48,7 +48,7 @@ article {
 	padding: 20px;
 }
 
-body {
+#products {
 	text-align: center;
 	background-color: #f1f3f6;
 	color: #13bfb4;
