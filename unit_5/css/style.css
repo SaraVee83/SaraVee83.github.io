@@ -13,16 +13,12 @@
 	border: 1px black solid;
 	padding: 20px;
 
-	ul{
+	ul{		
 		list-style-type: none;
 		margin: 0;
-		padding: 0;
-		overflow: hidden;}
+		padding: 0;}
 
-		li{
-			float: left;
-		}
-	}
+}
 
 aside {
 	background-color:#FFC775;
