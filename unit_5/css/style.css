@@ -4,7 +4,7 @@
     background-color: #FFED74;
     border: 1px black solid;
     padding: 20px;
-    background: url(images/EVA1024x768.png);
+    background: url(..images/EVA1024x768.png);
 	background-size: cover;
 }
 
@@ -66,16 +66,18 @@ aside {
 h1 {
 	color: #3a2fad;
 	text-align: center;
-	font-family: Open Sans, Sans-Serif;, bold;
+	font-family: Open Sans, Sans-Serif;
 }
 
 h3 {
 	color: #3a2fad;
 	text-align: center;
-	font-family: Open Sans, Sans-Serif;, bold;
+	font-family: Open Sans, Sans-Serif;
 }
 
 p{
 	font-size: 22px;
 	font-family: Open Sans, Sans-Serif;
 }
+
+
