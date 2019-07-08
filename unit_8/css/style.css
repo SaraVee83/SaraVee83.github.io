@@ -79,3 +79,9 @@ ul{
 	font-size: 1em;
 	font-family: Open Sans, Sans-Serif;
 }
+
+@media screen only and (max-width: 750px){
+	body {
+		font-style: 12px;
+	}
+}
