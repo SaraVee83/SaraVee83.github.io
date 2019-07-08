@@ -18,15 +18,16 @@ import url('https://fonts.googleapis.com/css?family=Open+Sans&display=swap');
 	background-color:#E8C66A;
 	border: .10em black solid;
 	padding: 1em;
+	text-decoration: none;
 }
 
 .column {
-	float:left;
+	float: left;
 	width: 30.67%;
 	height: 10em;
 	border: 1px black solid;
-	padding-left: 2%
-	padding-right: 2%; 
+	padding-left: 10%
+	padding-right: 10%; 
 	margin: 0em;
 	text-align: center;
 	color: #13BFB4;
