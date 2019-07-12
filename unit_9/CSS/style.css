@@ -1,0 +1,87 @@
+@import url('https://fonts.googleapis.com/css?family=Open+Sans&display=swap');
+
+#intro {
+	display: block;
+	width: 100%;
+	margin: 0;
+	background: cover;
+}
+
+#hero {
+	display: block;
+	width: 100%;
+	margin: 0;
+	background: cover;
+}
+
+#nav {
+	background-color:#E8C66A;
+	border: .10em black solid;
+	padding: 1em;
+	text-decoration: none;
+}
+
+.column {
+	float: left;
+	width: 30.67%;
+	height: 10em;
+	border: 1px black solid;
+	padding-left: 10%
+	padding-right: 10%; 
+	margin: 0em;
+	text-align: center;
+	color: #13BFB4;
+	font-family: Open Sans, Sans-Serif;
+}
+
+.clearfix:after {
+    visibility: hidden;
+    display: block;
+    font-size: 0;
+    content: " ";
+    clear: both;
+    height: 0;
+}
+
+#footer {	
+	clear: both;
+	width: 100%;
+	padding: 2%;
+	text-decoration: none;
+	
+}
+
+body {
+	font-style: 16px;
+	background-color: #D8DEE6;
+}
+
+h1 {
+	color: #3a2fad;
+	text-align: center;
+	font-family: Open Sans, Sans-Serif;
+	font-size: 2em;
+}
+
+h3 {
+	color: #3a2fad;
+	text-align: center;
+	font-family: Open Sans, Sans-Serif;
+	font-size: 1.5em;
+}
+
+p{
+	font-size: 1em;
+	font-family: Open Sans, Sans-Serif;
+}
+
+ul{
+	font-size: 1em;
+	font-family: Open Sans, Sans-Serif;
+}
+
+@media screen only and (max-width: 750px) {
+	body {
+		font-size: 12px;
+	}
+}
