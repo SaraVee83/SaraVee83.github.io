@@ -10,3 +10,11 @@ body {
 h1 {
 	font-family: "Open Sans", sans-serif;
 }
+
+#intro {
+	text-align: center;
+	background: img(../Images/EVA System.jpg);
+	background-size: cover;
+	color: #262062;
+	font-family: "Open Sans", sans-serif;
+}
