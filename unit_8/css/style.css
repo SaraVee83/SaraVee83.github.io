@@ -1,4 +1,4 @@
-import url('https://fonts.googleapis.com/css?family=Open+Sans&display=swap');
+@import url('https://fonts.googleapis.com/css?family=Open+Sans&display=swap');
 
 #intro {
 	display: block;
@@ -80,8 +80,8 @@ ul{
 	font-family: Open Sans, Sans-Serif;
 }
 
-@media screen only and (max-width: 750px){
+@media screen only and (max-width: 750px) {
 	body {
-		font-style: 12px;
+		font-size: 12px;
 	}
 }
